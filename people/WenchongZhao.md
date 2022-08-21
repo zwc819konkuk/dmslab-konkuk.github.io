@@ -4,6 +4,7 @@ title: WenchongZhao
 ---
 
 
+![alt_text](./profile-zhaowc.jpg)
 ### Research
 - Computer Vision
 - Activity Recognition
