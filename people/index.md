@@ -39,7 +39,7 @@ title: People
 * Fengyi Jin
 * [WonJune Seo](./SeoWonJune)
 * Seungjin Yu
-* [WenchongZhao](./WenchongZhao)
+* [Wenchong Zhao](./WenchongZhao)
 
 ### B.S Course
 
