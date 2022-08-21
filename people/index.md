@@ -33,13 +33,14 @@ title: People
 * Hyeon-gyu Jeong 
 * [Hyungeun Jo](./HyunGeunJo)
 * Lu kai
+* [WenchongZhao](./WenchongZhao)
 * Minhwan Kim
 * Chuhong Kim
 * Ikjin Kwon
 * Fengyi Jin
 * [WonJune Seo](./SeoWonJune)
 * Seungjin Yu
-* [WenchongZhao](./WenchongZhao)
+
 
 ### B.S Course
 
