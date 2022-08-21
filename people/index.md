@@ -33,7 +33,7 @@ title: People
 * Hyeon-gyu Jeong 
 * [Hyungeun Jo](./HyunGeunJo)
 * Lu kai
-* [WenchongZhao](./WenchongZhao)
+* [Wenchong Zhao](./WenchongZhao)
 * Minhwan Kim
 * Chuhong Kim
 * Ikjin Kwon
